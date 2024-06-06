@@ -22,6 +22,20 @@ OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 */
 
+
+/*
+INFO:
+
+buttons:
+LB -> all led on
+RB -> led binary counter
+
+dip switches:
+1 -> all led off
+2 -> buzzer song
+3 -> all led fade effect
+*/
+
 #define RED_PIN 11
 #define GREEN_PIN 10
 #define BLUE_PIN 9
